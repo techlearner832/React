@@ -1,0 +1,14 @@
+.plant-list {
+  display: flex;
+  gap: 20px;
+}
+
+.plant-item, .cart-item {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+img {
+  width: 100px;
+  height: 100px;
+}
